@@ -8,8 +8,8 @@ const shell = require("shelljs");
 const init = () =>{
     console.log(
         chalk.green(
-            figlet.textSync("CLI-TEMPLATE", {
-                font:"Monotype Corsiva",
+            figlet.textSync("NODE---- TEMPLATE", {
+                font:"Banner",
                 horizontalLayout:"default",
                 verticalLayout:"default"
             })
@@ -53,8 +53,5 @@ const run = async () =>{
 run();
 
 
-// Packages Used-
-// Figlet: A program for making large letters out of ordinary text.
-// Inquirer: A library for building command line interfaces.
-// Chalk: A library for creating colored output in terminal.
-// ShellJS: A library for executing commands in the shell.
+
+
