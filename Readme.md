@@ -1,4 +1,4 @@
-## Packages Used-
+## Packages Used
 ### Figlet: A program for making large letters out of ordinary text.
 ### Inquirer: A library for building command line interfaces.
 ### Chalk: A library for creating colored output in terminal.
